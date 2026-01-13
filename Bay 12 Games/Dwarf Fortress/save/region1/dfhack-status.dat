@@ -1,10 +1,10 @@
-DF version:  v0.53.02 linux64 ITCH
-DFHack version: 53.02-r2 (8c8e39f)
+DF version:  v0.53.08 linux64 CLASSIC
+DFHack version: 53.08-r1 (67c591c)
 Tagged release: yes
 Pre-release:    no
-Build url:  https://github.com/DFHack/dfhack/actions/runs/19177295324
+Build url:  https://github.com/DFHack/dfhack/actions/runs/20377646646
 
 World name: Alabeecamo (The Momentous Universe)
 World generated in version:  3534
-World last saved in version: 3534
-World loaded in version:     3534
+World last saved in version: 3543
+World loaded in version:     3543
